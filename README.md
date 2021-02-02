@@ -15,4 +15,4 @@
 ![](https://img.shields.io/badge/Express-Javascript-b?style=for-the-badge&logo=Express&logoColor=white&color=2bbc8a)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipsjp26&layout=compact)](https://github.com/philipsjp26/github-readme-stats)
+
