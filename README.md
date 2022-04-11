@@ -13,6 +13,8 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Sanic-Python-b?style=for-the-badge&logo=Sanic&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Express-Javascript-b?style=for-the-badge&logo=Express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 
 
