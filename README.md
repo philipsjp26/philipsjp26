@@ -5,8 +5,11 @@
 
 ## Tools & Technologies
 
+Tools : 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=Ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=2bbc8a)
+
+Technoglogies : 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
