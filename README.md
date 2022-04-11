@@ -5,7 +5,7 @@
 
 ## Tools & Technologies
 
-Tools : &nbsp
+Tools : &nbsp;
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=Ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=2bbc8a)
 
