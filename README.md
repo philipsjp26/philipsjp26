@@ -12,11 +12,10 @@ Throughout my career, I’ve worked across diverse industries — including digi
 
 ## 🚀 Currently Learning
 
-- ⚙️ SQL Optimization
-- 📊 Distributed tracing using ( OpenTelemetry )
-- 🔁 Performance testing & Reporting ( K6 )
+- 📊 Distributed tracing, metrics, sampling
+- 🔁 Performance testing & Reporting
 - 📡 Scalable event-driven systems
-- 💻 Exploring frontend development using React & Next.js (SSR, API routes, and modern UI patterns)
+- 💻 Exploring frontend development using React & Next.js (SSR, API routes, tailwindcss, and modern UI patterns)
 ---
 
 ## 🛠 Tools & Technologies
