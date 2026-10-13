@@ -9,15 +9,6 @@ I'm a backend engineer with ~4 years of experience building scalable, reliable, 
 Throughout my career, I’ve worked across diverse industries — including digital identity (eKYC & digital signature), food and beverage tech, IT Consulting, and travel/tourism platforms.
 
 ---
-
-## 🚀 Currently Learning
-
-- 📊 Distributed tracing, metrics, sampling
-- 🔁 Performance testing & Reporting
-- 📡 Scalable event-driven systems
-- 💻 Exploring frontend development using React & Next.js (SSR, API routes, tailwindcss, and modern UI patterns)
----
-
 ## 🛠 Tools & Technologies
 
 <table>
